@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
     <head>
         <link rel = "icon" href = "Иконка 1 макета.gif">
@@ -127,9 +127,5 @@
         <div class = "clear"></div>
         <footer>Подвал</footer>
         </div>
-        <a href = "Код макета.txt" download><button>Скачать код макета</button></a>
-        <a href = "Макет кнопки 1.txt" download><div id = "button1">Скачать код макета кнопки</div></a>
-        <br>
-        <a href = "Макет кнопки 2.txt" download><div id = "button2">Скачать код макета кнопки</div></a>
     </body>
 </html>
